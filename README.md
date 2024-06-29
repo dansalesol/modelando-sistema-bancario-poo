@@ -1,5 +1,7 @@
 # Modelando sistema bancário com POO
-## Desafio: Criando um sistema bancário
+## Desafio: 
+
+Criando um sistema bancário
 
 ## Objetivo Geral
 
